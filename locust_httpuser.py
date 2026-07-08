@@ -29,3 +29,4 @@ class myUser(HttpUser):
         assert resp.status_code == 200, f"ERROR--ERROR,{resp.status_code}"
         
 print("dev1")
+print("dev2")
